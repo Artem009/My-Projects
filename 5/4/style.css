@@ -1,0 +1,31 @@
+*{
+	font-size: 0px;
+	margin-top: 0px;
+	margin-bottom:0px;
+}
+.block {
+	display: inline-block;
+	background-color: black;
+	height: 170px;
+	width: 170px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.wrapper {
+	width: 830px;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.wrapper-sacond {
+	width: 630px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin: auto; 
+}
+.wrapper-third {
+	width: 630px;
+	margin-top: 30px;
+	margin-bottom: 160px;
+	margin: auto; 
+}

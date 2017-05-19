@@ -1,0 +1,38 @@
+*{
+	font-size: 0px;
+	margin-top: 0px;
+	margin-bottom:0px;
+ 
+}
+.one {
+display: inline-block;	
+width: 170px;
+height: 260px;
+background-color: black;
+margin-right: 15px;
+margin-left: 15px;
+margin-bottom: 60px;
+}
+.wrapper {
+		 width: 1200px;
+		 margin-left: auto;
+		 margin-right: auto; 
+		 margin-top: 60px;
+		 }
+
+	.two {
+	display: inline-block;	
+	width: 370px;
+	height: 900px;
+	background-color: black;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-bottom: 60px;
+	vertical-align: middle;
+	}
+	 .block {
+	 	display: inline-block;
+	 	width: 800px;
+	 	vertical-align: top;
+ 
+ 	}
