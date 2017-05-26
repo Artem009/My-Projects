@@ -1,0 +1,13 @@
+
+.wrapper {
+	margin-left: 50px;
+	list-style-image: url(love_7899.png);
+}
+.out {
+	margin-left: 50px;
+	list-style-image: url(star_fav.png);
+}
+.item {
+	margin-left: 50px;
+	list-style-image: url(sun.png);
+}
