@@ -1,0 +1,17 @@
+*{
+	font-size: 20px;
+}
+th {
+	border: 1px solid #000000;
+
+}
+table {
+	border-collapse: collapse;
+	width: 770px;
+	height: 515px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.gradient {
+	background-image: linear-gradient(to right, #ff8580, #fffc80);
+}
