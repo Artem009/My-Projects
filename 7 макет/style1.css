@@ -1,0 +1,135 @@
+.*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+.line,.header,.emblem,.company-name,.footer{
+font-size: 0px;
+width: 100%;
+}
+.line{
+	height: 5px;
+	background-color: #fa6900;
+}
+.header{
+	height: 1000px;
+	background-image: linear-gradient(to top, #f1f1f1 535px, #69d2e7 465px);
+}
+.hello{
+	font-size: 55px;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 175px;
+}
+.clinik{
+	font-size: 25px;
+}
+.emblem{
+	height: 535px;
+	background-color: #fa6900;
+}
+.company-name{
+	height: 555px;
+	background-color: #f1f1f1;
+}
+.footer{
+	height: 68px;
+	background-color: #69d2e7;
+}
+.about{
+background-color: #ffffff;
+width: 835px;
+height: 285px;
+margin-top: 85px;
+margin-left: auto;
+margin-right: auto;
+font-size: 0px;
+}
+.about-us{
+	font-size: 35px;
+	text-align: center;
+	padding-top: 45px;
+}
+.lorem-35{
+	font-size: 25px;
+	text-align: center;
+	padding-top: 55px;
+}
+.block-position{
+	width: 1005px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.block{
+	display: inline-block;
+	width: 165px;
+	height: 165px;
+	background-color: #ffffff;
+	margin-left: 85px;
+	margin-right: 85px;
+	margin-top: 65px;
+}
+.lorem-5-position{
+	width: 1005px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+.lorem-5{
+	display: inline-block;
+	width: 215px;
+	height: 70px;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+.lorem-emblem-1,.lorem-emblem-2,.lorem-emblem-3,.lorem-emblem-4,.lorem-emblem-5{
+	color: #ffffff;
+	margin-left: 15%;
+	width: 500px;
+}
+.lorem-emblem-1{
+	font-size: 30px;
+	margin-top: 80px;
+}
+.lorem-emblem-2{
+	font-size: 25px;
+}
+	.lorem-emblem-3,.lorem-emblem-4,.lorem-emblem-5{
+	margin-top: 15px;	
+	}
+
+.lorem-emblem-3{
+	font-size: 20px;
+}
+.lorem-emblem-4{
+	font-size: 20px;
+}
+.lorem-emblem-5{
+	font-size: 20px;
+}
+.wraper{
+	display: inline-block;
+	background-color: #fa6900;
+	height: 455px;
+	width: 585px;
+	float: left;
+}	
+.wraper-1{
+width: 1250px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.radius{
+	display: inline-block;
+	height: 535px;
+	background-color: #ffffff;
+	width: 620px;
+	border-radius: 250px 0 0 250px;
+	font-size: 0px;
+	margin-left: 35px;
+}
+
