@@ -81,9 +81,7 @@ button:hover {
 }
 .checkbox {
 	margin-top: 10px;
-	text-align: left;
-	margin-right: auto;
-	display: inline-block;
+	display: inline;
 }
 textarea{
 	display: block;

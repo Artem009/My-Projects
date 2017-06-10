@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Form</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<style type="text/css">
+		form{
+			margin-top: 10px;
+			margin-left: auto;
+			margin-right: auto;
+			width: 500px;
+			border: 1px solid #ccc;
+			padding: 10px;
+			font-size: 16px;
+		}
+		button{
+			background-color: #000;
+			color: #fff;
+		}
+	</style>
+</head>
+<body>
+	
+	<form method="get">			
+	<div class="wrapper">
+			<label for="Имя">Ваше имя</label>
+				<input placeholder="Например, Иванов Иван Иванович" type="text">
+	</div>			
+	<div class="wrapper">
+			<label for="Род деятеьности">Род деятельности</label>
+				<input placeholder="Например выращиваю огрурцы" type="text">
+	</div>
+		<div class="radio">		
+				<label for="change">Согласны ли вы с условиями</label>
+				<label><input type="radio" name="Да" value="change">Категорически ДА!</label>
+				<label><input type="radio" name="Нет" value="change">Категорически НЕТ!</label>			
+		</div>
+	</div>
+		<button type="submit">Отправить</button>
+	</form>	
+</body>
+</html>
