@@ -62,31 +62,61 @@
 		margin-bottom: 10px;
 		color: #7e8287;
 	} 
-.block{
+	.block,.block-one{
 	display: inline-block;
-	width: 25%;
-	height: 255px;
+	height: 255px;	
+	font-size: 25px;
+	text-align: center;
+	}
+.min-block{
+	font-size: 18px;
+	margin-top: 10px;
+	width: 55%; 
+	margin-left:auto;
+	margin-right: auto;
+}
+.block{
+	width: 24.6%;
 	border-right: 1px solid #7e8287;
 }
-
+.block-one{
+	width: 24.6%;
+}
 
 .services{
 	display: inline-block;
-	background-color: green;
-	width: 100%;
+	background-color: #f0f0e8;
+	width: 50%;
 	height: 730px;
-	font-size: 0px;
+	font-size: 100px;
+	color: #02918c;
+}
+.lorem-servise{
+	font-size: 30px;
+}
+.block-servise{
+	display: inline-block;
+	width: 47%;
+	height: 180px;
+	font-size: 15px;
+	color: #7e8287;
 }
 .work{
+	background-color: #fff;
 	display: inline-block;
-	background-color: yellow;
 	width: 100%;
 	height: 350px;
-	font-size: 0px;
+	font-size: 60px;
+	color: #02918c;
+	text-align: center;
+}
+.wrapper-work{
+	width: 50%
+	margin-left:auto;
+	margin-right: auto;
 }
 .images{
 	display: inline-block;
-	background-color: red;
 	width: 100%;
 	height: 480px;
 	font-size: 0px;
