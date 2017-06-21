@@ -91,6 +91,10 @@
 	font-size: 100px;
 	color: #02918c;
 }
+.servise-image{
+	background-image: url(Image4.jpg);
+	background-size: 100%;
+}
 .lorem-servise{
 	font-size: 30px;
 }
@@ -109,6 +113,7 @@
 	font-size: 60px;
 	color: #02918c;
 	text-align: center;
+	margin-top: 50px;
 }
 .wrapper-work{
 	width: 50%
@@ -119,26 +124,19 @@
 	display: inline-block;
 	width: 100%;
 	height: 480px;
-	font-size: 0px;
 }
-.contact{
+.form{
 	display: inline-block;
-	background-color: #FFFFFF;
-	width: 100%;
-	height: 340px;
-	font-size: 0px;
-}
-.black{
-	display: inline-block;
-	background-color: #000000;
+	background-color: #0b0b0b;
 	width: 100%;
 	height: 560px;
 	font-size: 0px;
 }
 .footer{
-	background-color: green;
+	background-color: #000;
 	width: 100%;
 	height: 70px;
+	color: #fff;
 }
 
 
