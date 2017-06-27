@@ -16,16 +16,22 @@ font-family: sans-serif;
 .header {
 	color: black;
 }
+.img-small{
+	padding-left: 25px; 
+}
+.img-small-item{
+	padding-left: 55px; 
+}
 	.content	{
-	border-left: 2px solid #d14eac;
-	border-right: 2px solid #d14eac;
+	border-left: 2px solid #000;
+	border-right: 2px solid #000;
 	max-width: 1200px;
 	background-color: #fff;
 	margin-left: auto;
 	margin-right: auto;
 	}
 .header-nav {
-			border-style: solid;
+	  border-style: solid;
       border-color: black;
       border-width: 4px 0;
       padding-left: 30px;
@@ -34,7 +40,6 @@ font-family: sans-serif;
 .header-nav-list-item {
 	display: inline-block;
 	color: black;
-
 }
 .header-nav-link {
 	display:  inline-block;
@@ -47,8 +52,12 @@ font-family: sans-serif;
 .text-content {
 	padding: 40px;
 }
+.eagle-vector{
+	width: 1100px;
+	height: 800px;
+}
 .footer {
-			border-style: solid;
+	  border-style: solid;
       border-color: #000;
       border-width: 4px 0;
       padding-left: 30px;
@@ -56,5 +65,10 @@ font-family: sans-serif;
       display:  inline;
 }
 .footer-nav {
-
+	  border-style: solid;
+	  border-color: #fff;
+	  border-width: 4px;
+	  display: inline-block;
+}
+.header-nav-list-item{
 }
