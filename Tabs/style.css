@@ -1,0 +1,20 @@
+#tabs ul > li {
+  list-style-type: none;
+}
+#tabs .tabs-nav ul > li {
+  display: inline;
+  color: rgba(255, 0, 0, 0.7);
+  cursor: pointer;
+}
+#tabs .tabs-nav ul .active {
+  background-color: #f0f;
+}
+#tabs .tabs-content ul > li {
+  display: none;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+#tabs .tabs-content ul > li.active {
+  background-color: #f00;
+  display: block;
+}

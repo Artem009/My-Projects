@@ -1,0 +1,77 @@
+header{
+	background-image: url(Layer15.jpg);
+	height: 550px;
+	width: 100%;
+ }
+ .header-content{
+	display: inline;
+ 	font-size: 20px;
+ 	color: #fff;
+ 	padding-left: 360px;
+ 	padding-top: 25px;
+ }
+ .wrapper-header-content-item{
+ 	display: flex;
+	flex-wrap: nowrap;
+	margin-left: 50%;
+ }
+.header-content-item{
+	display: inline;
+	font-size: 16px;
+	color: #fff;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 25px;
+}
+.creativ{
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+	margin-top: 60px;
+}
+.welcome{
+	font-size: 60px;
+	color: #fff;
+	text-align: center;
+}
+.button-first{
+	width: 200px;
+	height: 50px;
+	background-color: rgba(0,0,0,0);
+	font-size: 28px;
+	margin-top: 40px;
+}
+.progress-bar-all{
+	margin-top: 25px;
+	font-size: 25px;
+	color: #fff;
+}
+.story{
+	text-align: center;
+	font-size: 25px;
+}
+.we-do{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #000;
+}
+.story-content{
+	color: #00f;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 20px;
+}
+.img-story{
+	display: inline-block;
+	padding-bottom: 110px;
+}
+.counter{
+	height: 275px;
+	background-color: #95e1d3;
+	width: 100%;
+}
+.work-content{
+	text-align: center;
+	font-size: 16px;
+	color: #000;
+}
