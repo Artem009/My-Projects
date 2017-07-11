@@ -93,3 +93,82 @@ header{
 	width: 33%;
 	display: inline-block;
 }
+.devices{
+	background-image: url(Layer45.jpg);
+	height: 700px;
+	width: 100%;
+	text-align: center;
+}
+.devices-content{
+	padding-top: 100px;
+}
+.servise{
+	height: 700px;
+}
+.servise-content{
+	text-align: center;
+	margin-top: 100px;
+}
+.servise-img{
+	padding-top: 50px;
+}
+.servise-float{
+	float: right;
+	padding-right: 95vh;
+}
+.jon{
+	background-color: #f8f8f8;
+}
+.block{
+	width: 150px;
+	height: 150px;
+	border: 3px solid #95e1d3;
+}
+.jon__float{
+	float: right;
+}
+.meat{
+	padding-top: 100px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.team,{
+	font-size: 20px;
+}
+.lorem-meat,{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.image-first,.image-second,.image-third{
+	display: inline-block;
+	text-align: center;
+	width: 33%;
+}
+.sprite{
+	text-align: center;
+	margin-top: 125px;
+	background-color: #f8f8f8;
+	height: 250px;
+}
+.our-work{
+	padding-top: 100px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.our-work-item{
+	font-size: 25px;
+}
+.our-work-content{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.image-hover,{
+	width: 25%;
+}
+.image-hover-main{
+	width: 25%;
+}
