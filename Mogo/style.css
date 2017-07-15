@@ -40,6 +40,7 @@ header{
 	background-color: rgba(0,0,0,0);
 	font-size: 28px;
 	margin-top: 40px;
+	text-align: center;
 }
 .progress-bar-all{
 	margin-top: 25px;
@@ -252,7 +253,10 @@ header{
 }
 .mogo{
 	height: 500px;
-	margin-left: 30px;
+}
+.mogo-first{
+float: left;
+margin-left: 30px;
 }
 .mogo-big{
 	font-size: 70px;
@@ -278,3 +282,12 @@ header{
 	background-color: #95e1d3;
 	color: #fff;
 }
+.mogo-center{
+	float: right;
+}
+.mogo-instagram{
+	width: 25%;
+}
+
+
+
