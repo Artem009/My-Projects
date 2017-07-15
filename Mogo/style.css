@@ -166,9 +166,22 @@ header{
 	margin-left: auto;
 	margin-right: auto;
 }
-.image-hover,{
-	width: 25%;
+.image-hover-center
+{
+	width: 24.7%;
+}
+.image-hover{
+	width: 49%;
+	display: inline-block;
 }
 .image-hover-main{
+	width: 50%;
+	float: left;
+}
+.image-hover-next{
 	width: 25%;
+	float: right;
+}
+.inter{
+	float: right;
 }
