@@ -182,6 +182,30 @@ header{
 	width: 25%;
 	float: right;
 }
+.img__inter{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
 .inter{
+	margin-top: 45px;
 	float: right;
+	width: 70%;
+}
+.clients{
+	background-image: url(Layer53.jpg);
+	width: 100%;
+	height: 830px;
+	text-align: center;
+}
+.happy-clients{
+	font-size: 20px;
+	padding-top: 70px;
+}
+.what{
+	font-size: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
