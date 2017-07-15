@@ -268,3 +268,13 @@ header{
 	margin-top: 45px;
 	border-bottom: 1px solid #CCC;
 }
+.input{
+	width: 230px;
+	height: 40px;
+}
+.button{
+	width: 150px;
+	height: 40px;
+	background-color: #95e1d3;
+	color: #fff;
+}
