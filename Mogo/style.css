@@ -255,8 +255,11 @@ header{
 	height: 500px;
 }
 .mogo-first{
+display: inline-block;
 float: left;
 margin-left: 30px;
+width: 40%;
+margin-top: 40px;
 }
 .mogo-big{
 	font-size: 70px;
@@ -267,7 +270,6 @@ margin-left: 30px;
 .mogo-content{
 	color: #cccccc;
 	font-size: 20px;
-	width: 40%;
 	line-height: 2;
 	margin-top: 45px;
 	border-bottom: 1px solid #CCC;
@@ -283,10 +285,14 @@ margin-left: 30px;
 	color: #fff;
 }
 .mogo-center{
-	float: right;
+display: inline-block;
+width: 30%;
 }
 .mogo-instagram{
-	width: 25%;
+display: inline-block;
+width: 25%;
+padding-left: 1%;
+margin-top: 120px;
 }
 
 

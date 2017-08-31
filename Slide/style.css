@@ -1,0 +1,12 @@
+.slick-arrow{
+background-color: #f00;
+}
+.carousel-item{
+	background-color: black;
+	color: #fff;
+	height: 200px;
+	width: 600px;
+	text-align: center;
+	font-size: 45px;
+	padding-top: 65px;
+}
