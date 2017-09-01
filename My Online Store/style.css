@@ -1,0 +1,36 @@
+* {
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+}
+
+.header {
+	background-color: #808080;
+	color:#FFFFFF;
+	font-size: 25pt;
+	padding: 75px 70px;
+	text-align: center;
+}
+
+.aside {
+	background-color: #6495CD;
+	float: left;
+	width: 15%;
+	color: #FFFFFF;
+}
+.content,.aside{
+	min-height: 70px;
+}
+.content {
+	background-color: #FFFFFF;
+}
+.footer {
+	background-color: #A9A9A9;
+	height: 75px;
+	max-height: 20em;
+	color: #FFFFFF;
+	font-size: 25pt;
+	padding: 25px 70px;
+	float: none;
+	padding-top: 
+}
