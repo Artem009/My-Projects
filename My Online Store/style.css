@@ -1,15 +1,17 @@
-* {
-margin: 0;
-padding: 0;
-font-family: sans-serif;
-}
 
+*{ 
+@font-face {
+font-family: "Alex Brush";
+src: url("alex-brush.zip"); 
+}
+}
 .header {
 	background-color: #808080;
 	color:#FFFFFF;
 	font-size: 25pt;
 	padding: 75px 70px;
 	text-align: center;
+	font-family: "Alex Brush";
 }
 
 .aside {
