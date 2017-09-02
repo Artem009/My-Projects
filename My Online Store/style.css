@@ -1,17 +1,11 @@
 
-*{ 
-@font-face {
-font-family: "Alex Brush";
-src: url("alex-brush.zip"); 
-}
-}
 .header {
 	background-color: #808080;
 	color:#FFFFFF;
 	font-size: 25pt;
 	padding: 75px 70px;
 	text-align: center;
-	font-family: "Alex Brush";
+	font-family: Permanent Marker;
 }
 
 .aside {
