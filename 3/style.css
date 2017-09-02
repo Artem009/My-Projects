@@ -66,9 +66,19 @@ font-family: sans-serif;
 }
 .footer-nav {
 	  border-style: solid;
-	  border-color: #fff;
-	  border-width: 4px;
-	  display: inline-block;
+      border-color: black;
+      border-width: 4px 0;
+      padding-left: 30px;
+      margin-top: 40px;
 }
-.header-nav-list-item{
+.footer-nav-list-item {
+	display: inline-block;
+	color: black;
 }
+.footer-nav-link {
+	display:  inline-block;
+	padding: 10px 20px;
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
