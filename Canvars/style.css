@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#myCanvas{
+	background-color: #CCC;
+}
+.conteiner{
+	margin: 0 auto;
+	width: 640px;
+	height: 640px;
+	position: relative;
+
+}
