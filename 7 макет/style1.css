@@ -64,11 +64,13 @@ font-size: 0px;
 .block{
 	display: inline-block;
 	width: 165px;
-	height: 165px;
+	height: 135px;
 	background-color: #ffffff;
 	margin-left: 85px;
 	margin-right: 85px;
 	margin-top: 65px;
+	text-align: center;
+	padding-top: 30px;
 }
 .lorem-5-position{
 	width: 1005px;
