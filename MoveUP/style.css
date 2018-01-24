@@ -1,0 +1,169 @@
+header{
+	width: 100%;
+	height: 1020px;
+	background-image: url("img/photo.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.header-wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 35px;
+	display: flex;
+	position: fixed;
+	width: 70%;
+	height: 60px;
+	align-items: center;
+}
+
+.waxom-emblem{
+	color: #FFFFFF;
+	padding-left: 20%;
+}
+.waxom{
+	color: #fff;
+}
+.hover{
+	display: inline-block;
+	color: #fff;
+	margin-right: 10px;
+	margin-left: 10px;
+	min-width: 70px;
+}
+.hover:hover{
+	color: #998675;
+}
+.header-left{
+	display: flex;
+	flex-wrap: nowrap;
+	margin-left: 50%;
+}
+.middle-text{
+	color: #fff;
+	font-size: 25px;
+	padding-top: 400px;
+}
+.unic{
+	font-size: 30px;
+}
+.portfolio{
+	font-size: 45px;
+}
+.nam{
+	font-size: 16px;
+}
+.button-first{
+	width: 175px;
+	height: 50px;
+	background-color: #998675;
+	font-size: 20px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #fff;
+}
+
+
+	.block,.block-one{
+	display: inline-block;
+	height: 255px;	
+	font-size: 25px;
+	text-align: center;
+	font-family: sans-serif;
+	}
+.min-block{
+	font-size: 18px;
+	margin-top: 10px;
+	width: 55%; 
+	margin-left:auto;
+	margin-right: auto;
+	line-height: 2;
+	font-family: sans-serif;
+	color: #7e8287;
+}
+.block{
+	width: 24.6%;
+	height: 250px;
+	margin-top: 25px;
+	color: #7e8287;
+}
+.line-bottom{
+	font-size: 70px;
+}
+.our{
+	font-size: 35px;
+	font-weight: bold;
+	margin-top: 90px;
+	text-align: center;
+}
+.invest{
+	text-align: center;
+	font-size: 25px;
+	margin-top: 15px; 
+}
+.button-second{
+	width: 175px;
+	height: 50px;
+	background-color: #998675;
+	font-size: 20px;
+	margin-top: 40px;
+	color: #fff;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.button-second-all{
+	width: 100px;
+	height: 50px;
+	background-color: #998675;
+	font-size: 20px;
+	margin-top: 40px;
+	color: #fff;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.all-buttons{
+	text-align: center;
+}
+.block-img{
+	display: inline-block;
+	width: 370px;
+	height: 340px;
+	background-color: #000;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.first-jarus{
+	text-align: center;
+	margin-top: 50px;
+}
+.button-third{
+	width: 200px;
+	height: 65px;
+	background-color: #998675;
+	font-size: 20px;
+	margin-top: 40px;
+	color: #fff;
+	text-align: center;
+}
+.mobile{
+	width: 100%;
+	height: 700px;
+	background-color: #fbfaf8;
+	margin-top: 50px;
+}
+.mobile>img{
+	margin-left: 400px;
+}
+.left{
+	float: right;
+	width: 700px;
+	padding-right: 400px;
+}
+.exelent{
+	font-size: 45px;
+	padding-top: 75px;
+	padding-bottom: 30px;
+}
+.after{
+	font-size: 20px;
+}
