@@ -1,11 +1,11 @@
 .slick-arrow{
-background-color: #f00;
+background-image: url("img/space-monitor-multi-dual-screen-nature-wallpaper-hd-iphone-6-1920x1024.jpg");
 }
 .carousel-item{
-	background-color: black;
+	background-image: url("img/space-monitor-multi-dual-screen-nature-wallpaper-hd-iphone-6-1920x1024.jpg");
 	color: #fff;
-	height: 200px;
-	width: 600px;
+	height: 100px;
+
 	text-align: center;
 	font-size: 45px;
 	padding-top: 65px;

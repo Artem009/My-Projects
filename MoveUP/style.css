@@ -1,34 +1,40 @@
+
 header{
 	width: 100%;
 	height: 1020px;
-	background-image: url("img/photo.jpg");
+	background-image: url("img/space-monitor-multi-dual-screen-nature-wallpaper-hd-iphone-6-1920x1024.jpg");
 	background-repeat: no-repeat;
 	text-align: center;
+}
+.carousel-item{
+	background-color: black;
+	color: #fff;
+	height: 200px;
+	width: 600px;
+	text-align: center;
+	font-size: 45px;
+	padding-top: 65px;
 }
 .header-wrapper{
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 35px;
 	display: flex;
-	position: fixed;
 	width: 70%;
 	height: 60px;
-	align-items: center;
-}
-
-.waxom-emblem{
-	color: #FFFFFF;
-	padding-left: 20%;
+	align-items: baseline;
 }
 .waxom{
 	color: #fff;
+	font-size: 25px;
 }
 .hover{
 	display: inline-block;
 	color: #fff;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 15px;
+	margin-left: 15px;
 	min-width: 70px;
+	font-size: 12px;
 }
 .hover:hover{
 	color: #998675;
@@ -36,21 +42,26 @@ header{
 .header-left{
 	display: flex;
 	flex-wrap: nowrap;
-	margin-left: 50%;
+	margin-left: 12%;
 }
 .middle-text{
 	color: #fff;
 	font-size: 25px;
-	padding-top: 400px;
+	margin-top: 320px;
 }
 .unic{
 	font-size: 30px;
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 30px;
 }
 .portfolio{
 	font-size: 45px;
+	font-family: 'Raleway ExtraBold', sans-serif;
+	margin-bottom: 30px;
 }
 .nam{
 	font-size: 16px;
+	font-family: 'Montserrat Light', sans-serif;
 }
 .button-first{
 	width: 175px;
@@ -61,6 +72,8 @@ header{
 	margin-left: auto;
 	margin-right: auto;
 	color: #fff;
+	font-family: 'Montserrat Light', sans-serif;
+	margin-top: 50px;
 }
 
 
@@ -83,7 +96,6 @@ header{
 }
 .block{
 	width: 24.6%;
-	height: 250px;
 	margin-top: 25px;
 	color: #7e8287;
 }
@@ -129,8 +141,8 @@ header{
 	width: 370px;
 	height: 340px;
 	background-color: #000;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 .first-jarus{
 	text-align: center;
@@ -166,4 +178,90 @@ header{
 }
 .after{
 	font-size: 20px;
+}
+.recent{
+	text-align: center;
+	font-size: 35px;
+}
+.recent-after{
+	text-align: center;
+	font-size: 20px;
+}
+.tapki{
+	height: 370px;
+	width: 370px;
+}
+.tapki-lorem{
+	font-size: 25px;
+}
+.claritas{
+	font-size: 15px;
+}
+.calendar{
+	width: 50px;
+	height: 60px;
+	color: #fff;
+	text-align: center;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.calendar-top{
+	height: 25px;
+	background-color: #363636;
+	padding-top: 10px;
+}
+.calendar-bottom{
+	height: 20px;
+	background-color: #252525;
+	padding-top: 2px;
+}
+.block-other{
+	display: inline-block;
+	text-align: center;
+	width: 24.6%;
+	height: 250px;
+	margin-top: 25px;
+	color: #7e8287;
+}
+.center{
+	text-align: center;
+	padding-bottom: 120px;
+}
+.footter-first{
+	height: 510px;
+	width: 100%;
+	background-color: #191919;
+	color: #fff;
+}
+.footter-first-block{
+	display: inline-block;
+	width: 24.8%;
+	height: 375px;
+}
+.waxom-emblem-bottom{
+	display: inline-block;
+}
+.footter-first-block-waxom{
+	display: inline-block;
+	height: 62px;
+	vertical-align: middle;
+	font-size: 23px;
+}
+.footter-first-block-content{
+	color: #555555;
+}
+.footter-first-block-recent{
+	font-size: 16px;
+}
+.img-miny{
+	display: inline-block;
+}
+.footter-bottom{
+	height: 108px;
+	width: 100%;
+	background-color: #111111;
+	color: #fff;
+}
+.footter-bottom-wrapper{
+	display: inline-block;
 }
