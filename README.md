@@ -1,2 +1,2 @@
 # My-Projects
-Мой репозиторий с моими проектами.
+My old projects.
