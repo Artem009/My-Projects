@@ -1,12 +1,12 @@
-.*{
-margin: 0px;
-padding: 0px;
-box-sizing: border-box;
+html{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 .line,.header,.emblem,.company-name,.footer{
-font-size: 0px;
-width: 100%;
+	font-size: 0;
+	width: 100%;
 }
 .line{
 	height: 5px;
@@ -38,13 +38,13 @@ width: 100%;
 	background-color: #69d2e7;
 }
 .about{
-background-color: #ffffff;
-width: 835px;
-height: 285px;
-margin-top: 85px;
-margin-left: auto;
-margin-right: auto;
-font-size: 0px;
+	background-color: #ffffff;
+	width: 835px;
+	height: 285px;
+	margin-top: 85px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
 }
 .about-us{
 	font-size: 35px;
@@ -99,9 +99,9 @@ font-size: 0px;
 .lorem-emblem-2{
 	font-size: 25px;
 }
-	.lorem-emblem-3,.lorem-emblem-4,.lorem-emblem-5{
+.lorem-emblem-3,.lorem-emblem-4,.lorem-emblem-5{
 	margin-top: 15px;	
-	}
+}
 
 .lorem-emblem-3{
 	font-size: 20px;
@@ -120,9 +120,9 @@ font-size: 0px;
 	float: left;
 }	
 .wraper-1{
-width: 1250px;
-margin-left: auto;
-margin-right: auto;
+	width: 1250px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .radius{
@@ -131,7 +131,7 @@ margin-right: auto;
 	background-color: #ffffff;
 	width: 620px;
 	border-radius: 250px 0 0 250px;
-	font-size: 0px;
+	font-size: 0;
 	margin-left: 35px;
 }
 
